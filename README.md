@@ -12,7 +12,7 @@
 
 ## DB
 
-- (undesiced)
+- (undesided)
 
 ## iOS
 
